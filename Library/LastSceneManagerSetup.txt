@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/joystick test scene.unity
+- path: Assets/Scenes/Top Down shooter.unity
   isLoaded: 1
   isActive: 1
